@@ -1,2 +1,2 @@
-# College-Website
-A web technology classroom project
+# new_college
+A simple College Information Website
